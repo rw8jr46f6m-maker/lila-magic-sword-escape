@@ -1,0 +1,1 @@
+print("Lila Magic Sword Escape client loaded")
